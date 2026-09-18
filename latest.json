@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "notes": "Baraka POS Version 1.0.1\n\nWhat's New:\n- Integrated production auto-updater with Ed25519 cryptographic signature verification\n- Seamless update notifications, download progress, and automatic relaunch\n- Uninstall & Data Preservation options in Settings (Keep My Data / Delete Everything)\n- Zero data loss guarantee: SQLite database, receipts, and settings in Documents\\Baraka remain completely intact\n- Performance, branding, and offline reliability improvements",
+  "pub_date": "2026-09-18T17:05:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTE2VEJINGVUajZQSGZtMDBEU3BEMS91ZDdXOExNbkg4ZEZGRGFLYkY4Vy9vZUhkQTVFbEFodU5RaVhTVHFETFh1TmQyejJRbmd0VTJvMmtmaE5RVXN3cVUvck5yTmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzUxMDI3CWZpbGU6QmFyYWthXzEuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAp6My9UZ0pBd2dOanFNenc0Y3VaVFJrK2U5OTVaL2srNUtPTjdLSURIczI1ZDNPVnI0a2JOOWJ2RWhKd3FNWWNabXZXS0h4K3lUUGtJR21TdnI1elhDZz09Cg==",
+      "url": "https://github.com/Heratics/baraka-releases/releases/download/v1.0.1/Baraka_1.0.1_x64-setup.nsis.zip"
+    }
+  }
+}
+
