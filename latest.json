@@ -1,12 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Baraka POS Version 1.0.1\n\nWhat's New:\n- Integrated production auto-updater with Ed25519 cryptographic signature verification\n- Seamless update notifications, download progress, and automatic relaunch\n- Uninstall & Data Preservation options in Settings (Keep My Data / Delete Everything)\n- Zero data loss guarantee: SQLite database, receipts, and settings in Documents\\Baraka remain completely intact\n- Performance, branding, and offline reliability improvements",
-  "pub_date": "2026-09-18T17:05:00Z",
+  "version": "1.1.5",
+  "notes": "Baraka POS Version 1.1.5\n\nWhat's New in v1.1.5:\n- Phase 2 Inventory Management & Reporting Expansion\n- Barcode label design & high-precision vector printing (Code 128, EAN-13, custom sizes)\n- Advanced stock operations, inventory ledger with historical cost tracking, and stock-taking reconciliation\n- Bulk inventory import and export (.xlsx, .csv) with staged validation\n- Comprehensive inventory valuation, slow/dead stock analysis, and multi-worksheet Excel reporting\n- Full backward compatibility and zero customer data loss.",
+  "pub_date": "2026-09-21T01:51:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTE2VEJINGVUajZQSGZtMDBEU3BEMS91ZDdXOExNbkg4ZEZGRGFLYkY4Vy9vZUhkQTVFbEFodU5RaVhTVHFETFh1TmQyejJRbmd0VTJvMmtmaE5RVXN3cVUvck5yTmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzUxMDI3CWZpbGU6QmFyYWthXzEuMC4xX3g2NC1zZXR1cC5uc2lzLnppcAp6My9UZ0pBd2dOanFNenc0Y3VaVFJrK2U5OTVaL2srNUtPTjdLSURIczI1ZDNPVnI0a2JOOWJ2RWhKd3FNWWNabXZXS0h4K3lUUGtJR21TdnI1elhDZz09Cg==",
-      "url": "https://github.com/Heratics/baraka-releases/releases/download/v1.0.1/Baraka_1.0.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTE2VEJINGVUandIQmRTcVNXVFErSWNSaUpXNEY3c0s2c3hxZ0ZZR21nUGlRKzFabTNXMnVtaTNYQXFlZkc2UlQvbWFXVzVtaWVqNTVYSEVTK2hqM1lheXpTUU5SZGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU0NzI0CWZpbGU6QmFyYWthXzEuMS41X3g2NC1zZXR1cC5uc2lzLnppcAozQWRVNC84VXV2NWRyTXNWQU1VWGYwNlJpYWh6RDN6YTZub0R2WG5US24wTjVYa2ZEZ0daN0dXQ2RET1R0Q2s4NDJjREQ0RitJaHNmZ1piQ3A4SGZBZz09Cg==",
+      "url": "https://github.com/Heratics/baraka-releases/releases/download/v1.1.5/Baraka_1.1.5_x64-setup.nsis.zip"
     }
   }
 }
-
